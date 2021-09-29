@@ -48,4 +48,4 @@ Android Website Display:
 
 ## Credits
 
-Based on ![Temperature plugin](https://github.com/MRsagi/cockpit-temperature-plugin) by MRsagi
+Based on [Temperature plugin](https://github.com/MRsagi/cockpit-temperature-plugin) by MRsagi
