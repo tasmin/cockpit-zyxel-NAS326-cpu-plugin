@@ -15,7 +15,7 @@ a linux distro on the Zyxel NAS326 device.
 
 To install, as described in [Cockpit docs](https://cockpit-project.org/blog/creating-plugins-for-the-cockpit-user-interface.html) 
 simply put the files in a subfolder like `NAS326-CPU` inside the folder `/usr/share/cockpit` for 
-the plugin to be available for all system useres **or** in a spesific user folder 
+the plugin to be available for all system users **or** in a spesific user folder 
 under `~/.local/share/cockpit`
 
 **NOTE:** The user that is logged-in **must** be in the `i2c` group for this plugin to work.
